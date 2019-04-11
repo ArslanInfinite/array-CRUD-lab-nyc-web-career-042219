@@ -1,9 +1,9 @@
 def create_an_empty_array
-  starks = []
+  array = []
 end
 
 def create_an_array
-  starks = ["Jon", "Arya", "Sansa", "Bran"]
+  array = ["first", "second", "third", "fourth")
 end
 
 def add_element_to_end_of_array(array, element)
